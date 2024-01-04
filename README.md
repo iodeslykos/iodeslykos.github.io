@@ -1,3 +1,1 @@
-# iodeslykos.github.io
-
-Stay tuned to watch the updates bloom.
+## Stay tuned to watch the updates bloom.
